@@ -1,0 +1,233 @@
+*LLB Seminar*
+
+*Software, Computer Generated Works and Database*
+
+*Legislative Provisions*
+
+- Sections 3, 3A, 12, 16, 17, 29-44, 79(2), CDPA 1988
+
+- Software Directive (Directive 2009/24/EC of the European Parliament
+  and of the Council of 23 April 2009 on the legal protection of
+  computer programs (Codified version)
+
+*UK/EU Software Copyright*
+
+- John Richardson Computers v Flanders [1993] FSR 497
+
+- *IBCOS Computers Ltd v Barclays Mercantile Highland Finance Ltd [1994]
+  FSR 275
+
+- Cantor Fitzgerald International v Tradition (UK) Ltd [2000] RPC 95
+
+- Navitaire v Easyjet [2004] EWHC 1725 (Ch)
+
+- *Nova Productions v Mazooma Games Ltd [2006] RPC 14; Nova Productions
+  v Mazooma Games Ltd [2007] RPC 25 (CA)
+
+- SAS Institute Inc v World Programming Ltd [2010] EWHC 1829 (Ch);
+  (C-406/10) 29 November 2011 [2012] E.C.D.R. 1 (AGO); [2012] 3 C.M.L.R.
+  4 (ECJ), [2013] EWHC 69 (Ch)
+
+- Bezpecnostni Softwarova Asociace -- Svaz Softwarove Ochrany v
+  Ministerstvo Kultury (C-393/09) [2011] F.S.R. 18
+
+- S Vousden, ‘Protecting GUIs in EU law: Bezpecnostni Softwarova
+  Asociace' [2011] 6 (10) JIPLP 728
+
+- UsedSoft GmbH v Oracle International Corp, Case C-128/11, 3 July 2012
+
+- S Stokes, “The development of UK software copyright law: from John
+  Richardson Computers to Navitaire” (2005) 11(4) C.T.L.R. 129-133
+
+*US Software Copyright Cases*
+
+- Whelan Associates v. Jaslow Dental Laboratory (1986) 797 F.2d 1222 (3d
+  Cir. 1986)
+
+- Lotus Development Corporation v. Paperback Software International 740
+  F. Supp. 37 (D Mass, 1990)
+
+- *Computer Associates v. Altai 982 F.2d 693 (2d Cir.1992)
+
+*Free and Open Source Software (FOSS) Licensing*
+
+- *GNU General Public Licence at
+  [[http://www.gnu.org/licenses/gpl.html][http://www.gnu.org/licenses/gpl.html]]
+
+- Richard Stallman, “What is Free Software?” at
+  [[https://www.gnu.org/philosophy/free-sw.html][https://www.gnu.org/philosophy/free-sw.html]]
+
+- Eric Raymond, /The Cathedral and the Bazaar/, 2000, Version 3.0 at
+  [[http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/][http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/]]
+
+- Benkler, Y (2002) ‘Coase's Penguin, or, Linux and “The Nature of the
+  Firm” ', /Yale Law Journal/ 112 (3):369
+
+- Kelty, CM (2008) /Two Bits--The Cultural Significance of Free
+  Software/. Durham: Duke University Press
+
+- Gomulkiewicz, Robert W., “How Copyleft Uses License Rights to Succeed
+  in the Open source Software Revolution and the Implications for the
+  Implications for Article 2B” (1999) 36 Houston Law Review 179
+
+- Gomulkiewicz, Robert W. “A First Look at General Public License 3.0”,
+  (2007) 24 Computer and Internet Lawyer 15
+
+- *Kumar, Sapna, “Enforcing the GNU GPL” (2006) University of Illinois
+  Journal of Law, Technology and Policy 1
+
+- Hass, Douglas A. “A Gentlemen's Agreement: Assessing the GNU General
+  Public License and its Adaptation to Linux” (2007) 6 Chicago-Kent
+  Journal of Intellectual Property 213
+
+- CW Zhu, “ ‘Copyleft' Reconsidered: Why Software Licensing
+  Jurisprudence Needs Insights from Relational Contract Theory” (2013)
+  22(3) Social and Legal Studies 289-308
+
+- Gates, Bill, “An Open Letter to Hobbyists”, 3 February 1976 at
+  [[http://www.digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html][/http://www.digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html/]]
+
+- Moglen, Eben, “Anarchism Triumphant: Free Software and the Death of
+  Copyright”, (1999) 4 (8) /First Monday/, at
+  <http://www.firstmonday.org/issues/issue4_8/moglen/>
+
+*Authoring FOSS*
+
+- Jacobsen v Katzer 535 F.3d 1373 (Fed. Cir. 2008)
+
+- D Evans and A Layne-Farrar ‘Software Patents and Open Source: The
+  Battle Over Intellectual Property Rights' 9 Virginia Journal of Law
+  and Technology 10 (2004)
+
+- Benjamin I. Narodick, ‘Smothered by Judicial Love: How Jacobsen v.
+  Katzer Could Bring Open Source Software Development to a Standstill'
+  (2010) 16 /Boston University Journal of Science and Technology Law/
+  264
+
+- *S Dusollier, ‘Open Source and Copyleft: Authorship Reconsidered?'
+  (2003) 26 /Columbia Journal of Law and the Arts/ 283 (pay attention to
+  Dusollier's argument that the Kantian authorship is reconciled with
+  the Foucauldian idea through FOSS licensing)
+
+- CW Zhu, ‘A Regime of Droit Moral Detached from Software
+  Copyright?---The Undeath of the “Author” in Free and Open Source
+  Software Licensing” (2014) 22 (4) Int J Law Info Tech 367-392
+
+*Computer Generated Works*
+
+- *Express Newspapers Plc v Liverpool Daily Post & Echo Plc [1985] 1
+  W.L.R. 1089 (Ch D)
+
+- Temple Island Collections Ltd v New English Teas Ltd [2012] EWPCC 1;
+  [2012] E.C.D.R. 11 (PCC)
+
+- Feist Publications Inc v Rural Telephone Service Co Inc 499 U.S. 340
+  (1991) (Sup Ct (US))
+
+- Telstra Corp Ltd v Desktop Marketing Systems Pty Ltd [2002] F.C.A.F.C.
+  112 (Fed Ct (Aus) Full Ct)
+
+- Nine Network Australia Pty Ltd v IceTV Pty Ltd [2009] HCA 14 (HC
+  (Aus))
+
+- Data Access Corporation v Powerflex Services Pty Ltd [1999] HCA 49
+
+*AI and Copyright*
+
+- *Annemarie Bridy, “Coding Creativity: Copyright and the Artificially
+  Intelligent Author” (2012) Stanford Technology Law Review 5
+
+- *Robert C. Denicola, "Ex Machina: Copyright Protection for Computer
+  Generated Works." (2016) 69 Rutgers UL Rev. 251
+
+- Fitzgerald, Anne, and Tim Seidenspinner. "Copyright and
+  Computer-Generated Materials-Is It Time to Reboot the Discussion about
+  Authorship." (2013) 3 Victoria UL & Just. J. 47
+
+- James Grimmelmann, “Copyright for Literate Robots” (2016) 101 Iowa Law
+  Review 657
+
+- *Guadamuz, Andres. "Do androids dream of electric copyright?
+  Comparative analysis of originality in Artificial Intelligence
+  generated works." (2017) 2 I.P.Q 169-186
+
+- Hart, R. J. "Copyright and computer generated works." (1988) 40(6)
+  Aslib proceedings MCB UP Ltd 173-181
+
+*Database Rights*
+
+- *C Waelde et. al. Chapter 6 [6.4]-[6.20]*
+
+- EC Directive on Databases (Directive 96/9/EC of the European
+  Parliament and of the Council of 11 March 1996 on the legal protection
+  of databases) implemented in the UK by the Copyright and Rights in
+  Databases Regulations 1997
+
+- EC Directive on Databases (Directive 96/9/EC of the European
+  Parliament and of the Council of 11 March 1996 on the legal protection
+  of databases) implemented in the UK by the Copyright and Rights in
+  Databases Regulations 1997
+
+- /*British Horseracing Board v William Hill/ Case C-203/02 (from the
+  Court of Appeal, England and Wales)
+
+- /Fixtures Marketing Ltd. v Svenska Spel/ AB Case C-338/02 (from the
+  Hogsta Domstol, Sweden)
+
+- /Directmedia Publishing GmbH v Albert-Ludwigs-Universität Freiburg/
+  Case C-304/07 (from the Bundesgerichtshof, Germany)
+
+- /Football Dataco Ltd v Sportradar/ [2012] EWHC 1885 (Ch), - Court of
+  Appeal [2013] EWCA Civ 27
+
+- *Ryanair Ltd v PR Aviation BV (C-30/14) EU:C:2015:10; [2015] Bus. L.R.
+  117 (ECJ (2nd Chamber))
+
+- Maurizio Borghi and Stavroula Karapapa, “Contractual restrictions on
+  lawful use of information: sole-source databases protected by the back
+  door?” [2015] 37(8) E.I.P.R. 505-514
+
+- Robert Clark, “Sui generis database protection: a new start for the UK
+  and Ireland?” (2007) 2 (2) Journal of Intellectual Property Law &
+  Practice 97
+
+- A Koo, ‘Database right decoded' [2010] EIPR 313
+
+- R Sylvester, ‘In-match sports data: back on the radar' [2013] Ent.
+  L.R. 2013, 24(4), 134-136
+
+- G Minero, “Did the Database Directive actually harmonize the database
+  copyright? Football Dataco Ltd v Brittens Pools Ltd and the ECJ's
+  rules against subsistence of database copyright in fixtures lists”
+  [2012] EIPR 34(10), 728
+
+- EU Evaluation Report on the Directive - European Commission Working
+  Paper, First Evaluation of Directive 96/9/EC (2005)
+  [[http://ec.europa.eu/internal_market/copyright/prot-databases/prot-databases_en.htm][http://ec.europa.eu/internal_market/copyright/prot-databases/prot-databases_en.htm]]
+
+*[Questions]*
+
+[Q1] How software is protected under copyright law? What are the
+exceptions allowed by non-copyright holders under CDPA?
+
+[Q2] How to determine a software copyright infringement case? What is
+the /Altai/ test? Is this test accepted by the UK court?
+
+[Q3] What are computer generated works? Can they be protected by
+copyright? Who are their authors and owners?
+
+[Q4] What are the legal protections available to databases in the EU?
+Especially, what is sui generis database right? What investment is
+required to for the sui generis right to subsist? Does the U.S. have a
+sui generis database right law?
+
+[Q5] Does copyright subsist in a database produced by British
+Horseracing Board? What is the consequence of the court ruling in
+/British Horseracing Board v William Hill/? Why the /BHB/ ruling is
+called the European equivalent of /Feist/?
+
+[Q6] What is the consequence of the ruling in /Ryanair v PR Aviation/ in
+relation to database law?
+
+[Q7] What is free and open source software? What is the viral clause in
+the GNU Public Licence? Why is it called copyleft? Is it enforceable?

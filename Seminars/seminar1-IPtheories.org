@@ -1,0 +1,113 @@
+#+TITLE: Seminar 1: Justificatory Foundations of IP Law
+#+AUTHOR: Chen Zhu
+#+PANDOC_OPTIONS: number-sections:nil 
+#+PANDOC_OPTIONS: standalone:t
+
+* Introduction
+In this seminar, we will examine three competing (sometimes complementary) theoretical models of justifying IP: 
+1) labour-based justification
+2) personality-based justification and
+3) incentive-based market utilitarian justification.
+We will discuss the strengths and weaknesses of these different models in a historical context. The readings will lay a solid foundation for the study of many key issues concerning IP in future seminars.
+
+* Seminar Questions
+
+** [Q1] Aaaron Swartz's tragedy 
+In January 2013, Aaron Swartz (1986-2013), a young internet activist (or “hacktivist”), committed suicide when facing prosecution for hacking into JSTOR's proprietary digital database of academic journal, books, and primary sources. The prosecutor Carmen Ortiz commented:
+
+#+BEGIN_QUOTE
+‘Stealing is stealing, whether you use a computer command or a crowbar.'
+#+END_QUOTE
+
+Do you agree with Ortiz? Is there a difference between the theft of physical property and that of “intellectual property”? What has led to Aaron Swartz's death? Did copyright law play a role? (See also JSTOR,
+"JSTOR Evidence in United States vs. Aaron Swartz --Summery of Events"
+at [[http://docs.jstor.org/summary.html]] )
+
+** [Q2] IP Justifications: Labour vs Personality
+
+Discuss the difference between the Lockean labour-based justification of IP and the Hegelian personality-based justification of IP. (See J Hughes' article in the "Readings" section)
+
+*** i) What is Locke's theory of property in general? What are the provisos to his theory of property? What are the different interpretations of the Lockean labour (the “avoidance” view of labour vs. “value-added view” of labour)? Can the Lockean theory be readily applied to “intellectual” labour and therefore “intellectual” property?
+
+*** ii) What is the Hegelian personality theory of IP as anchored in an individual's creative expression?
+
+*** iii) How are these two theories represented in IP law (especially copyright) respectively under the common law and civil law traditions?
+
+** [Q3] The Utilitarian Approach
+What is the market utility justification of IP? What is its unique feature that makes it different from the Lockean and Hegelian models? Is there evidence that IP rights do incentivize individuals or businesses to create?
+
+** [Q4] The Myriad conundrum 
+Can human genes be patented? Should a pharmaceutical company own the so-called gene patents to recoup their huge investment cost in R&D? Under which justificatory theories can genetic patents be justified? See
+/AMP v Myriad Genetics
+[[http://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf][http://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf]]/).
+Does the US Supreme Court close the door to all gene patents altogether after the /Myriad/ case?
+
+** [Q5] A Kantian Question: Writing as Speech? 
+What is the significance of Kant's /On the Injustice of Reprinting Books/ (1785) on intellectual property? What is the relevance of the Kantian theory in today's society where communication through the internet is prevalent?
+** [Q6] International IP and Territoriality 
+Is there an international IP legal system where IP rights are enforceable under a single unified jurisdiction?
+
+* Readings
+** Aaron Swartz's tragedy
+
+- Elizabeth Day, ‘Aaron Swartz: hacker,
+genius... martyr?'2 June 2013, /The Guardian/, at
+[[http://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview][http://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview]]
+
+- Reader, Ruth. ‘3 Years After Aaron Swartz’s Death, Here’s What’s Happened to Aaron’s Law’. Mic, 12 January 2016.https://www.mic.com/articles/132299/3-years-after-aaron-swartz-s-death-here-s-what-s-happened-to-aaron-s-law.
+
+- Aurora Plomer, The Human Rights Paradox: Intellectual Property Rights and Rights of Access to Science (2013) 35(1) Human Rights Quarterly 143
+(Try to relate this article to the lawsuit against Sci-Hub)
+
+** Philosophical Foundations of IP
+- *A Moore & K Himma, ‘Intellectual Property', /The Stanford Encyclopedia of Philosophy/, Edward N. Zalta (ed.), at
+[[http://plato.stanford.edu/entries/intellectual-property/][http://plato.stanford.edu/entries/intellectual-property/]]
+  NB: No need to read the whole article, but you may wish to focuse on 
+  + Section 3.1 personality-based justification;
+  + Section 3.2 utilitarian-based argument for IP;
+  + Section 3.3 Lockean justification.
+
+- *J Hughes, “The Philosophy of Intellectual Property”[1988] 77 Georgetown L.J. 287 (no need to read the whole of this very long article, but try to focus on
+  + Section II. A Lockean justification (i.e. the labour theory) pp.296-330
+  + Section III. A Hegelian justification (i.e the personality theory) pp.330-350
+
+** Locke, Hegel, and Kant
+- Lior Zemer, “The Making of A New Copyright Lockean” (2006) 29 (3) /Harvard Journal of Law & Public Policy 891-947/
+
+- Margaret Jane Radin, Property and Personhood (1982) 34(5) Stanford Law Review 957
+
+- Jeanne L. Schroeder, “Unnatural Rights: Hegel and Intellectual Property,” (2006) 60 University of Miami Law Review 453
+
+- *F Kawohl, (2008) ‘Commentary on Kant's essay /On the Injustice of Reprinting Books/ (1785)', in /Primary Sources on Copyright (1450-1900)/, eds L. Bently & M. Kretschmer at
+[[http://www.copyrighthistory.org/cam/tools/request/showRecord?id=commentary_d_1785][http://www.copyrighthistory.org/cam/tools/request/showRecord?id=commentary_d_1785]]
+
+- A Barron, "Kant, Copyright and Communicative Freedom” (2012) 31 Law & Philosophy 1"
+
+- *E C Hettinger, ‘Justifying Intellectual Property' [1989] 18 Philosophy and Public Affairs 31 (pp. 47-51 on the incentive theory)
+
+** Debating the Utilitarian approach
+- Harold Demsetz, “Creativity and the Economics of the Copyright Controversy”, (2009) 6 (2) Review of Economic Research on Copyright Issues, pp.5-12
+
+- Eric E. Johnson, “Intellectual Property and the Incentive fallacy” (2012) 39 Florida State University Law Review 623
+
+** The Myriad Conumdrum (assessing the incentive theory under the market utility model)
+
+- *Association for Molecular Pathology (AMP) vs Myriad <[[http://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf][http://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf]]>
+
+- Jessica C. Lai, “Myriad Genetics and the BRCA Patents in Europe: The  Implications of the U.S. Supreme Court Decision” (2015) 5 UC Irvine Law Review 1041
+
+- Mateo Aboy, Kathleen Liddell, Johnathon Liddicoat & Cristina Crespo,  “Myriad's impact on gene patents”, (2016) 34 (11) Nature Biotechnology 1119
+
+- Robert Cook-Deegan and Annie Niehaus, “After Myriad: Genetic Testing in the Wake of Recent Supreme Court Decisions about Gene Patents” (2014) 2Curr Genet Med Rep 223
+
+** What can be Owned? Free-riding and Restitution  
+
+- Wendy Gordon, “On Owning Information: Intellectual Property and the Restitutionary Impulse” (1992) 78 VA. L. REV. (NB: pay attention to /International News Serv. v. Associated Press/, 248 U.S. 215 (1918) and /Victoria Park Racing & Recreation Grounds Co.v. Taylor/, 58 C.L.R. 479 (1937))
+
+* pandoc pdf                                                       :noexport:
+
+#+BEGIN_SRC sh
+pandoc seminar1*.org -o ~/Desktop/seminar1.pdf --pdf-engine=xelatex
+#+END_SRC
+
+#+RESULTS:
