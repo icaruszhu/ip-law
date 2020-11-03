@@ -3,6 +3,8 @@ Title: YALA's Version-Controlled Intellectual Property Law Study Guide for BLS S
 Author: Chen Zhu
 ---
 
+#### [![DOI](https://zenodo.org/badge/299559844.svg)](https://zenodo.org/badge/latestdoi/299559844)`
+
 # Intellectual Property Law: Contexts, Doctrines and Debates
 
 *A Version-Controlled IP Course Guide for Final-Year Undergraduate Law Students at Birmingham Law School* 
