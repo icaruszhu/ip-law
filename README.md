@@ -17,7 +17,7 @@ I am grateful to our students who have taken this IP course in the past years. Y
 # Background
 The text of this guide is stored and distributed in the non-proprietary plain text formats including ```markdown``` and ```Emacs's org-mode```. It is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) with ```org```/```markdown``` source code available. My aim is to use free and open source software (FOSS) to generate all course contents, which need to be shareable, sustainable, and remixable. My main text editor for writing course materials is [GNU/Emacs](https://www.gnu.org/software/emacs/), which is used to edit both [Org](https://orgmode.org/) and Markdown (thanks to the [markdown-mode](https://jblevins.org/projects/markdown-mode/)) files. I also use [Zettlr](https://www.zettlr.com/)  as a secondary markdown editor. Zettlr is a fantastic FOSS tool that brilliantly  implements the German sociologist Niklas Luhmann's Zettelkasten method, and I like its versatility and elegance. 
 
-The course guide is developed over a period of time and its textual format has is version controlled by Git. This means that the guide is a work in constant and possibly perpetual progress. 
+The course guide is developed over a period of time and its textual format is version controlled by Git. This means that the guide is a work in constant and possibly perpetual progress. 
 
 ## Dedication
 This course guide is dedicated to my father Jianzhong Zhu (1951-2020), who sadly passed away in October 2020 (after losing a long battle against a host of painful illnesses). 
@@ -61,6 +61,6 @@ Please feel free to fork this course guide repo. Pull requests are also welcome.
 # Footnotes
 
 
-[^1]: You may try this to a ~~barrister~~ barista at a Starbucks shop: "Could I have a tall cup of latte? No milk please!" See what reaction you will get. Studying IP without knowing the "intellectual" background  is like having latte without milk.  
+[^1]: You may try this to a ~~barrister~~ barista at a Starbucks shop: "Could I have a tall cup of latte? No milk please!" See what reaction you will get. Studying IP without knowing the "intellectual" background of its many subject matters is like having a cup of latte without milk. 
 
 [^2]: I am inspired by Dan Hunter and Claudy Kamp, *A History of Intellectual Property in 50 Objects* (Cambridge University Press 2019)
