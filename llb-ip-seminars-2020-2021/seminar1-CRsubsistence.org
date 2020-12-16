@@ -1,0 +1,167 @@
+#+TITLE: Seminar 1: Copyright and Subsistence Rules (2020-2021)
+#+AUTHOR: Chen Zhu (Birmingham Law School) 
+#+PANDOC_OPTIONS: number-sections:nil 
+#+PANDOC_OPTIONS: standalone:t
+
+* Introduction
+The seminar deals with subsistence rules, which prevent "unworthy" creations from slipping into copyright protection. In particular, we will look at how "works" are classified under the UK copyright law. (Please think critically about the merits and demerits of this classification system.) In particular, we will delve into those authorial works including literary, dramatic, artistic and music works.
+
+* Seminar Questions
+
+** [Q1] Subsistence rules 
+What are the basic subsistence rules for copyright protection of authorial works under UK copyright law?
+ 
+** [Q2] Originality criteria
+What is the originality standard in copyright law? Compare the different standards in the UK, US and EU. Are they converging or diverging?
+
+** [Q3] Romantic influence
+ What is the Romantic aesthetic movement in the later 18^{th} century and the early 19^{th} century? Is Romanticism a driving force behind modern copyright law? (Do you agree with Woodmansee's thesis?) How did Romanticism create an idea of artistic “genius” in relation to the “originality” requirement in copyright?
+
+** [Q4] "Kleine Münze"
+What is the "kleine Münze" doctrine in German copyright law?
+
+** [Q5] Categories of works
+What are the 8 categories of “works” protectable under the CDPA? Do you think this categorization is a sensible one? Can perfumes be protected by copyright? How about football matches?
+
+** [Q6] Literary works 
+What is meant by “literary works” as defined by the UK copyright law? (see Section 3, CDPA.)
+
+
+*** i) What is the Hollinrake principle in relation to “literary works”
+ (see Hollinrake v Truswell (1894) 3 Ch 420) Does it still stand today?
+
+*** ii) Are single words (e.g. “Exxon”), short phrases (e.g. "The man who broke the bank at Monte Carlo"), and newspaper headlines, protected under copyright? Especially, what is the current status of the issue from the Court of Appeal ruling in /NLA v Meltwater/?
+
+** [Q7] Film copyright 
+ What is the meaning of "film" or "cinematographic work"? What is the “auteur theory” of film? Does it have any bearing on the legal properties of film? Can the short film “Joy” be protected according to /Norowzian v Ark (2)/? Can TV formats (e.g. X-Factor) be protected?
+
+** [Q8] Music works
+What is meant by “music works” under copyright law? What does the Court of Appeal decision in /Sawkins v Hyperion/ tell us?
+
+*** i) Delalande 
+Who is Michel Richard Delalande? Does copyright subsist in a work whose author has been long dead? What is the duration of copyright? Can the historical musicologist Lionel Sawkins' editorial work trigger a new
+copyright on top of Delalande's work?
+
+*** ii) Justice Mummery's ruling
+Does Mummery LJ provide a helpful guidance in determining the legal meaning of music work? Compare his view with Lord Mansfield's ruling in /Bach v Longman/ (1777), which is the first music copyright case in this
+country.
+
+*** iii) Avant-garde music
+Can Mummery LJ's definition of music work be extended to those more avant-garde music pieces such as John Cage's 4'33''? ( see C L Saw's article for more information.)
+
+*** iv) Attribution
+ Did the Hyperion Records appropriately attribute Dr. Lionel Sawkins as the “author” of his reconstructed work? What is the legal consequence?
+
+
+* Readings
+** Setting the Scene
+
+- *Jonathan Griffiths, “Dematerialization, Pragmatism and the European Copyright Revolution” (2013) 33 (4) Oxford Journal of Legal Studies, 767--790
+
+- *E Rosati, ‘Originality in the US and UK Copyright Experiences as a Springboard for an EU-wide Reform Debate' [2010] IIC 524
+
+- Justine Pila, ‘An Intentional View of the Copyright Work' [2008] 71  Modern Law Review 535 (note author's discussion on /Millar v Taylor/ &  /Donaldson v Becket/)
+
+**  “Originality” in history
+
+- *M Woodmansee, ‘The Genius and the Copyright: Economic and Legal Conditions of the Emergence of the “Author”' (1984) 17  /Eighteenth-Century Studies/ 425 (This is a seminal article that points out the historical root of “originality” in the Romantic aesthetics)
+
+- L Goehr, Chapter 6 “Musical Meaning: Romantic Transcendence and the Separability Principle”, /The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music/ (Oxford University Press, 1992)
+
+** UK Originality threshold
+
+- Sections 1 & 3, CDPA
+
+- *University of London Press Limited v University Tutorial Press Ltd (1916) 2 Ch. 601
+
+- Ladbroke v William Hill (1964) 1 WLR 273
+
+** The European Invasion: Impact from the Infopaq jurisprudence
+
+- [[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:62008CJ0005:EN:HTML][*Infopaq v Danske (C-5/08)(2009) ECR I-6569]]
+
+- Newspaper Licensing Agency Ltd and others v Meltwater Holding BV (2011) EWCA Civ 890
+
+- /Bezpečnostní softwarová asociace v Ministerstvo kultury/ Case C-393/09 [2011] ECDR 3
+
+- Painer v Standard Verlags GmbH (C-145/10) [2012] E.C.D.R. 6
+
+- Public Relations Consultants Association Ltd v The Newspaper Licensing Agency Ltd and others [2013] UKSC 18
+
+- E Derclaye, ‘Infopaq International A/S v Danske Dagblades Forening  (C-5/08): Wonderful or Worrisome? The Impact of the ECJ Ruling in Infopaq on UK Copyright Law' (2010) EIPR 247
+
+- *Andreas Rahmatian, “Originality in UK Copyright Law: The Old ‘Skill and Labour' Doctrine Under Pressure” (2013) 44(1) IIC 4
+
+- Simon Clark, “Just browsing? An analysis of the reasoning underlying the Court of Appeal's decision on the temporary copies exemption in Newspaper Licensing Agency Ltd v Meltwater Holding BV” (2011) 33(11) EIPR 725-728
+
+** Categorising copyright “works”
+- Sections 3-8 CDPA, 1988
+- A Christie, ‘A proposal for simplifying United Kingdom copyright law' [2001] EIPR 26
+
+- Brian Bandey, ‘Over-categorisation in copyright law: computer and internet programming perspective' [2007] EIPR 461
+
+- C Handig, ‘The Copyright Term “Work”--European Harmonisation at an Unknown Level' (2009) IIC 665
+
+- Justine Pila, “Copyright and Its Categories of Original Works” (2010) 30 (2) /Oxford Journal of Legal Studies/, pp. 229--254
+
+** Literary work
+
+- Section 3(1) CDPA, 1988
+
+- Millar v Taylor (1769) 4 Burr. 2303 (regarding James Thomson's The Seasons)
+
+- Donaldson v. Becket (1774) 4 Burr. 2408 (regarding James Thomson's literary work again; House of Lord)
+
+- University of London Press Limited v University Tutorial Press Ltd (1916) 2 Ch. 601
+
+- *Hollinrake v Truswell (1894) 3 Ch 420
+  (“[A] literary work is intended to afford either information and instruction, or pleasure, in the form of literary enjoyment." Per Davey LJ)
+
+- Exxon Corporation v Exxon Insurance Consultants International Ltd [1981] 3 ALL ER 241 (single word)
+
+- Francis Day & Hunter v 20th Century Fox [1940] 112 (regarding the song title:  “The Man who Broke the Bank at Monte Carlo”)
+
+- Newspaper Licensing Agency Ltd and others v Meltwater Holding BV (2011) EWCA Civ 890
+
+** Musical Work
+
+- Section 3(1) CDPA 1998
+
+- *Sawkins v Hyperion Records [2005] RPC 32 (CA); [2005] EWCA Civ 565
+
+- Michael W Carroll, 'The Struggle for Music Copyright' (2005) 57 Fla L Rev 907
+
+*** The Cage Conumdrum
+- John Cage, 4'33''---For Any Instrument or Combination of Instruments  (1952) (Hemmar Press, 1960) (a “work” in question consisting of silence)
+
+- *C L Saw, ‘Protecting the sound of silence in 4'33”: a timely revisit of basic principles in copyright law' [2005] 2 EIPR 467
+
+- Seymour, David. ‘This Is the Piece That Everyone Here Has Come to Experience: The Challenges to Copyright of John Cage’s 4’33’’. Legal Studies 33, no. 4 (2013):532–48.
+
+
+** Dramatic work
+
+- *Norowzian v Arks Ltd & Anor (No. 2) [1999] EWCA Civ 3014 (concerning the film “Joy” by the claimant and the TV advert “Anticipation” by the defendant)
+
+- /Banner Universal Motion Pictures/ Ltd /v Endemol/ Shine Group [2017] EWHC 2600 (Ch)
+
+- I Stamatoudi, ‘Joy for the claimant: can a film also be protected as a dramatic work?'[2000] IPQ 117
+
+- R Arnold, ‘Joy: a reply' [2001] IPQ 10
+
+- A Barron, ‘The legal properties of film' [2004] 67 MLR 177
+
+
+* pandoc export to pdf                                             :noexport:
+Chen's Note: the below =pandoc= command is for exporting the seminar sheet into a PDF document. It is tagged with =:noexport:=. The command is stored in an org-babel block, which can be executed by typing =Ctrl-c= twice. This will send the PDF file to your =~/Desktop= directory.  
+#+BEGIN_SRC sh
+pandoc seminar1*.org -o ~/Desktop/llb-seminar1-Jan2021.pdf --pdf-engine=xelatex
+#+END_SRC
+
+#+RESULTS:
+
+#+BEGIN_SRC sh
+pandoc seminar1*.org -o ~/Desktop/llb-seminar1-Jan2021.docx --pdf-engine=xelatex
+#+END_SRC
+
+#+RESULTS:

@@ -1,0 +1,219 @@
+#+TITLE: Seminar 3. Trade Marks and Branding (2020-2021)
+#+AUTHOR: Chen Zhu (Birmingham Law School) 
+#+PANDOC_OPTIONS: number-sections:nil 
+#+PANDOC_OPTIONS: standalone:t
+
+* Introduction
+What do trade mark law protect? Should it protect brands or branded images? This seminar explores many difficult issues concerning the registratbility of marks, legal protection of brands and, most fundamentally, the changing rationale behind TM law in its social context.
+
+* Seminar Questions
+
+** [Q1] Subject Matter of TM Law
+What is the subject matter of trade mark law? How is this subject matter defined under current UK trade mark law? What does the /Dyson Ltd v Registrar of Trade Marks/ ruling tell us?
+
+** [Q2] Essential Function
+What are the essential function and the extended functions of trade mark? What is Schechter's view on the rational basis of trade mark protection? What is Litman's view on the advertising function of trade
+marks?
+
+** [Q3] TM and Brand
+What is the difference between a “trade mark” and a “brand”? What is “anthropological marketing”? What is the semiotic analysis of trade marks?
+
+** [Q4] Unconventional Marks
+Can you register “smells” as trade marks? How about “sound” marks and “colour” marks?
+
+** [Q5] Absolute Grounds
+What are the absolute grounds for refusal of registration under Trade Marks Act 1994? What is the “acquired distinctiveness” proviso about? Is Cadbury entitled to register the purple colour as its trade mark? (When did Cadbury start to use the “purple” chocolate wrappers?)
+
+** [Q6] Slogan as TM
+Can slogans be protected by trade mark law? What is the mark applied for in /Audi AG v OHIM/ about? What is the result of the case and why? In general, how may IP law give protection to short verbal text?
+
+** [Q7] Relative Grounds
+What are relative grounds for refusal of registration? What is their relationship with infringement provisions?
+
+** [Q8] "Dilution"
+What is meant by “dilution” of marks with reputation? What are the anti-dilution provisions in UK and EU trade mark law? Is there a difference between “detriments” and “taking advantage?” What are regarded as “famous” marks?
+
+* Readings
+** Trade Mark Functions and Rationale
+- Annette Kur “Trade Marks Function, Don't They? CJEU Jurisprudence and  Unfair Competition Principle” (2014) 45 IIC 434--454
+
+- H Rosler, “The rationale for European trade mark protection” [2007] EIPR 100
+
+- *Luke McDonagh, “From Brand Performance to Consumer Performativity:  Assessing European Trade Mark Law after the Rise of Anthropological Marketing” (2015) 42(4) Journal of Law and Society 611-636
+
+
+** Average Consumers
+- Jennifer Davis, “Revisiting the average consumer: an uncertain presence in European trade mark law” (2015) 1 I.P.Q. 15-30
+
+** Rationales of Trade Mark Law
+
+- WM Landes and RA Posner ‘The Economics of Trademark Law' (1988) 78 TMR 267
+
+- *FI Schechter ‘The Rational Basis of Trade Mark Protection' (1926-27) 40 Harvard Law Review 813 (theoretical foundation of “dilution” law)
+
+- Barton Beebe, “Semiotic Analysis of Trademark Law” (2004) 51 UCLA Law  Review 621 (esp. pp. 677-684)
+
+- J Litman, ‘Breakfast with Batman: The public interest in the advertising age' (1999) 108 Yale Law Journal 1717
+
+- R Brown, “Advertising and the Public Interest” (1948) 57 Yale Law Journal 165
+
+- Bone RG, 'Trademark Functionality Reexamined ' (2015) 7(1) Journal of Legal Analysis 183-246
+
+** Basic requirements (sign, graphical representation, distinctive)
+- Sections 1, Trade Marks Act 1994
+
+- Dyson Ltd v Registrar of Trade Marks (C-321/03) [2007] ETMR 34; [2007] RPC 27 (sign)
+
+- E Smith, “Dyson and the public interest: an analysis of the Dyson trade mark case” [2007] 29(11) EIPR 469-473
+
+- *Sieckmann v. Deutsches Patent- und Markenamt (CJ C-273/00) (2003) RPC 38 (graphical representation)
+
+- Vennootschap Onder Firma Senta Aromatic Marketing's Application [1999] ETMR 429 (fresh cut grass)
+
+- Eden SARL v OHIM (GC, T-305/04) [2006] ETMR 14 (smell of ripe strawberries)
+
+- Libertel Groep v Benelux-Merkenbureau (CJ, C-104/01) [2003] ETMR 63
+
+- Heidelberger Bauchemie GmbH's Trade Mark Application (CJ, C-49/02) [2004] ETMR 99
+
+- Cadbury purple colour mark
+  + Société des Produits Nestlé SA v Cadbury UK Ltd (2012) EWHC 2637(Ch)
+  + Société Des Produits Nestlé SA v Cadbury UK Ltd [2013] EWCA Civ 1174 (CA)
+  +  Shield Mark (C-283/01) [2004] R.P.C. 17; [2004] E.T.M.R. 33 (ECJ)
+
+- Edgar Rice Burroughs Inc v. OHIM (R 708/2006-4) [2007]
+
+** Absolute Grounds for Refusal of Registration
+
+- *Section 3, Trade Marks Act, 1994
+
+*** (i) Descriptive Marks
+- Procter & Gamble v OHIM (C-383/99 P) [2001] ECR I-6251, [2002] ETMR 3 (“BABY-DRY”)
+
+- OHIM v Wrigley (C-191/01) P [2004] ETMR 9 (“DOUBLEMINT”)
+
+- Koninklijke KPN Nederland NV v Benelux-Merkenbureau (CJ, C- 363/99) [2004] ETMR 57 (“POSTKANTOOR”)
+- 
+- Campina Melkunie BV v Benelux-Merkenbureau (CJ, C-265/00) [2004] ETMR 58 (“BIOMILD”)
+
+- Windsurfing Chiemsee (C-108/97 and C-109/97) [1999] ECR I-2779; [1999] ETMR 585 (acquired distinctiveness)
+
+- *Audi AG v OHIM (C-398/08 P) [2010] ETMR 18
+
+*** (ii) Shapes
+
+- Philips Electronics NV v Remington Consumer Products Ltd (C299/99)  [2002] ECR I-5475; [2003] RPC 2 (ECJ)
+
+- *Lego Juris v OHIM, Mega Brands (C-48/09) [2010] ETMR 63(cf. the Kit Kat case)
+
+- DaimlerChrysler Corp v OHIM (Grille) (T-128/01) [2003] ECR II‑701; [2003]ETMR 87
+
+- *Chocoladefabriken Lindt & Sprüngli v OHIM (C-98/11 P) (Lindt bunny)
+
+- Nestle v OHIM (R 513/2011-2) (Kit Kat)
+
+- Bang & Olufsen v OHIM, Case T-508/08 [2012] ETMR 10
+
+- *Société des Produits Nestlé S.A. v Cadbury UK Ltd (“Kit Kat”[2017] EWHC Civ 358)
+
+*** (iii) Acquired Distinctiveness
+
+- *Nestlé SA v Mars UK Ltd (C-353/03) (“Have a Kit Kat...Have a Break”)
+
+** Colour Marks
+
+- Bartow A, 'The True Colors of Trademark Law: Greenlighting a Red Tide
+  of AntiCompetition Blues' (2008) 97(2) Kentucky Law Journal 263--291
+
+- Doll A, 'Registrability of Stand-Alone Colors as Trade marks' (2001) 12 Journal of Contemporary Legal Issues 66-70
+
+- Gillies P, ‘Colour in branding-asserting a monopoly in a colour for marketing purposes---the Cadbury-Darrell Lea Litigation' (2009) 12 International Trade and Business Law Review 253-265
+
+- Gorman DE, 'Protecting Single Color Trademarks in Fashion After Louboutin' (2012) 30 Cardozo Arts & Entertainment Law Journal 369-402
+
+- Landau MB, 'Trade mark Protection for Color Per Se After Qualitex Co. v. Jacobson Products Co.: Another Grey Area in the Law' (1995) 2 UCLA Entertainment Law Review 1-62
+
+- JM and Samuels LB, 'Color Trade marks: Shades of Confusion' (1993) 83 Official Journal of the International Trademark Association 554-570
+
+** Relative Grounds for Refusal & Infringement*
+
+- *Section 5, Trade Marks Act, 1994
+
+*** (i) Double Identity (Identical marks and identical g/s)
+
+- *Sections 5(1) / 10(1) TMA 1994
+  OR Arts 4(1)(a) and 5(1)(a) TMD;
+  OR Arts 8(1)(a) and 9(1)(a) CTMR
+
+- LTJ Diffusion SA v SADAS Verbaudet SA (CJ, C-291/00) [2003] ETMR 83
+
+- Reed Executive Plc v Reed Business Information Ltd (Court of Appeal) [2004] ETMR 56 (See especially paras 5, 14-15 and 20-41 (identity of marks);paras 5-13 and 42-76 (identity of g/s)
+
+- Andrew Griffiths, /“The trade mark monopoly: an analysis of the core zone of absolute protection under Art.5(1)(a)” (/2007) 3 I.P.Q. 312-349
+
+*** (ii) Confusing similarity
+
+- *Sections 5(2) / 10(2) TMA 1994
+  OR Arts 4(1)(b) and 5(1)(b) TMD
+  OR Arts 8(1)(b) and 9(1)(b) CTMR
+
+- Sabel BV v Puma AG/ (CJ, C-251/95) [1998] ETMR 1
+
+- Canon Kabushiki Kaisha v Metro-Goldwyn-Mayer Inc (CJ, C-39/97)[1999] ETMR 1
+
+- *Specsavers International Healthcare Ltd. & Ors v Asda Stores Ltd. [2010] EWHC 2035 (Ch); [2012] EWCA Civ 494 (CA)
+
+- B Bird and S D'Aloisio, “Confusing similarity: no ‘structured approach'” [2008] 3(12) JIPLP 754-756
+
+*** iii) Trade marks with a “reputation”: detriments and unfair advantage
+
+- *Sections 5(3) / 10(3) TMA 1994
+OR Arts 4(3), 4(4)(a) and 5(2) TMD
+OR Arts 8(5) and 9(1)(c) CTMR
+
+- General Motors Corp v Yplon SA (CJ, C-375/97) [1999] ETMR 950
+
+- Adidas-Salomon AG v Fitnessworld Trading Ltd/ (CJ, C-408/01) [2004] 2 WLR 1095
+
+- Intel Corp Inc v CPM United Kingdom Ltd/ (CJ, C-252/07) [2009] ETMR 13
+
+- *L'Oréal SA v Bellure NV/ (CJ, C-487/07) [2009] ETMR 55
+
+** "Dilution"
+
+- *D Meale and J Smith, /“Enforcing a trade mark when nobody's confused: where the law stands after L'Oreal and Intel” [2010] 5(2) JIPLP 96-104
+
+- I Simon Fhima, ‘Dilution by Blurring-A Conceptual Roadmap' (2010) IPQ 44
+
+- Katya Assaf, “Protection of Trade Marks against Dilution: A Semiotic Perspective (2009) 4 Journal of Intellectual Property Law and Practice 643
+
+- D Gangjee & R Burrell, ‘Because You're Worth It: L'Oréal and the Prohibition on Free Riding' (2010) 73 Modern Law Review 282
+
+- *M. Senftleben, “The Trademark Tower of Babel: Dilution Concepts in International, US and EC Trademark Law”, (2009) 40 International Review of Intellectual Property and Competition Law 45-77
+
+- Daniel /Bereskin, “Anti-Dilution/Anti-Free-Riding Laws in the United States, Canada and the EU: Bridges Too far?' (2011) 101 (6) TMR 1710
+
+- Jerre B. Swann, “The Evolution of Dilution in the United States from 1927 to 2013” (2013) 103 TMR 721
+
+*** “Due Cause” Defence
+
+- Leidseplien Beheer BV and de Vries v Red Bull GmBH Case
+C-65/12/[2014] Bus. L. R. 280
+
+- Vincenzo Di Cataldo, “The trade mark with a reputation in EU law--some remarks on the negative condition ‘without due cause' ” (2011) 42(7) IIC 833-845
+
+- A. Smith, “Every BULLDOG has its day: an analysis of ‘due cause': /Leidseplien Beheer BV and de Vries v Red Bull GmBH/” [2014] EIPR 536
+
+* pandoc export to pdf                                             :noexport:
+Chen's Note: the below =pandoc= command is for exporting the seminar sheet into a PDF document. It is tagged with =:noexport:=. The command is stored in an org-babel block, which can be executed by typing =Ctrl-c= twice. This will send the PDF file to your =~/Desktop= directory.  
+#+BEGIN_SRC sh
+pandoc seminar3*.org -o ~/Desktop/seminar3.pdf --pdf-engine=xelatex
+#+END_SRC
+
+#+RESULTS:
+
+#+BEGIN_SRC sh
+pandoc seminar3*.org -o ~/Desktop/llb-seminar3.docx --pdf-engine=xelatex
+#+END_SRC
+
+#+RESULTS:
