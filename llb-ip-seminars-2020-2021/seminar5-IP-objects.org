@@ -27,7 +27,7 @@ This seminar provides a "hands-on" desk where students can demonstrate and handl
 #+ATTR_ORG: :width 200
 #+ATTR_HTML: :width 80% :align right :style border:4px solid black
 #+ATTR_LATEX: :placement [h] :width 100%
-[[/home/chen/Documents/deft-journal/teach/img/millar-donaldson/Seasons-Donaldson-CRC-UOE-30July2014.png]]
+
 
 - Legal Cases:
   + Millar v Taylor 4 Burr. 2303, 98 Eng. Rep. 201 (K.B. 1769)
@@ -38,7 +38,7 @@ This seminar provides a "hands-on" desk where students can demonstrate and handl
 #+ATTR_ORG: :width 200
 #+ATTR_HTML: :width 80% :align right :style border:4px solid black
 #+ATTR_LATEX: :placement [h] :width 100%
-[[/home/chen/Documents/deft-journal/teach/img/TM/greek-yogurt-greek-style.jpg]]
+
 
 - Price comparison:
   +  ASDA Authentic Greek Yogurt:  £1.49 (Dec 2020) 
