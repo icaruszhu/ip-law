@@ -1,7 +1,10 @@
-#+TITLE: Seminar 6: Software, Computer Generated Works and Database
+#+TITLE: Seminar 6: Software, Computer Generated Works and Database (2020-21)
 #+AUTHOR: Chen Zhu (Birmingham Law School) 
 #+PANDOC_OPTIONS: number-sections:nil 
 #+PANDOC_OPTIONS: standalone:t
+#+SPDX-FileCopyrightText: 2020 Chen Zhu <https://icaruszhu.github.io/>
+#+SPDX-License-Identifier: CC-BY-SA-4.0
+
 * Introduction 
 - This seminar introduces IP rights regarding software, computer-generated works and database.
 * Seminar Questions
@@ -101,8 +104,7 @@ What is free and open source software? What is the viral clause in the GNU Publi
 - Gates, Bill, “An Open Letter to Hobbyists”, 3 February 1976 at
   [[http://www.digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html][/http://www.digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html/]]
 
-- Moglen, Eben, “Anarchism Triumphant: Free Software and the Death of
-  Copyright”, (1999) 4 (8) /First Monday/, at
+- Moglen, Eben, “Anarchism Triumphant: Free Software and the Death of Copyright”, (1999) 4 (8) /First Monday/, at
   <http://www.firstmonday.org/issues/issue4_8/moglen/>
 
 ** Authoring FOSS*
@@ -179,7 +181,14 @@ Computer-Generated Materials-Is It Time to Reboot the Discussion about Authorshi
 * pandoc export to pdf                                             :noexport:
 Chen's Note: the below =pandoc= command is for exporting the seminar sheet into a PDF document. It is tagged with =:noexport:=. The command is stored in an org-babel block, which can be executed by typing =Ctrl-c= twice. This will send the PDF file to your =~/Desktop= directory.  
 #+BEGIN_SRC sh
-pandoc seminar6*.org -o ~/Desktop/seminar6.pdf --pdf-engine=xelatex
+pandoc seminar6*.org -o ~/Desktop/llb-seminar6.pdf --pdf-engine=xelatex
+#+END_SRC
+
+#+RESULTS:
+
+
+#+BEGIN_SRC sh
+pandoc seminar6*.org -o ~/Desktop/llb-seminar6.docx --pdf-engine=xelatex
 #+END_SRC
 
 #+RESULTS:
