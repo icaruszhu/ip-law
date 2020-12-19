@@ -38,11 +38,13 @@ This seminar provides a "hands-on" desk where students can demonstrate and handl
 #+ATTR_ORG: :width 200
 #+ATTR_HTML: :width 80% :align right :style border:4px solid black
 #+ATTR_LATEX: :placement [h] :width 100%
-
+[[https://raw.githubusercontent.com/icaruszhu/commit/master/image/IP-objects/Zhu-Seasons-Donaldson-CRC-UOE-30July2014.png]]
 
 - Price comparison:
-  +  ASDA Authentic Greek Yogurt:  £1.49 (Dec 2020) 
+  + ASDA Authentic Greek Yogurt:  £1.49 (Dec 2020) 
   + ASDA Full Fat Greek Style Yogurt: £0.75 (rollback price £0.70, Dec 2020) 
+[[https://raw.githubusercontent.com/icaruszhu/commit/master/image/IP-objects/greek-yogurt-greek-style.jpg]]
+
 
 - [Q] Why ASDA's Athentic Authentic Greek Yogurt is much more   expensive than Greek Style Yogurt?
 - Legal Case: see Fage UK Ltd v Chobani UK Ltd, Court of Appeal (Civil Division) [2014] EWCA Civ 5,28 Jan 2014
