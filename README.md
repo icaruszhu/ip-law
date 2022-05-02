@@ -11,7 +11,7 @@ Author: Chen Zhu
 
 This course guide is designed by Chen Zhu a.k.a [YALA, Yet Another Legal Academic] (https://icaruszhu.github.io/), who has been teaching IP law at Birmingham Law School since 2014.
 
-I am grateful to our students who have taken this IP course in the past years. Your participation and feedback have helped to make this course grow and mature.
+I am grateful to our students who have taken this IP course in the past years. Your participation and feedback have helped to make this course grow and mature.[^1]
 
 
 # Background
@@ -19,14 +19,12 @@ The text of this guide is stored and distributed in the non-proprietary plain te
 
 The course guide is developed over a period of time and its textual format is version controlled by Git. This means that the guide is a work in constant and possibly perpetual progress. 
 
-## Dedication
-This course guide is dedicated to my father Jianzhong Zhu (1951-2020), who sadly passed away in October 2020 (after losing a long battle against a host of painful illnesses). 
 
 # "Intellectuality" in "Intellectual Property"
-This module encourages students to be attentive to dynamic *intellectual* processes behind those creative activities regulated or unregulated by IP law. A study of *Intellectual* Property without knowing relevant *intellectual* processes is like ordering a cup of [latte](https://en.wikipedia.org/wiki/Latte) without having milk. [^1]
+This module encourages students to be attentive to dynamic *intellectual* processes behind those creative activities regulated or unregulated by IP law. A study of *Intellectual* Property without knowing relevant *intellectual* processes is like ordering a cup of [latte](https://en.wikipedia.org/wiki/Latte) without having milk. [^2]
 
 # Object-oriented approach: A material history of IP  
-This IP course adopts an "object"-oriented approach. I have gradually built a curated collection of  "objects" and "artifacts" to show IP law's relevance in everyday life.[^2] This approach is informed by the "new materialist" theory that is gradually gaining momentum in critical legal scholarship. 
+This IP course adopts an "object"-oriented approach. I have gradually built a curated collection of  "objects" and "artifacts" to show IP law's relevance in everyday life.[^3] This approach is informed by the "new materialist" theory that is gradually gaining momentum in critical legal scholarship. 
 
 
 # Intellectual "Un-property"
@@ -58,9 +56,12 @@ The above code will send a decently formatted PDF file to your ```~/Desktop```.
 
 Please feel free to fork this course guide repo. Pull requests are also welcome. 
 
+
 # Footnotes
 
+[^1]: This course guide is dedicated to my father Jianzhong Zhu (1951-2020), who sadly passed away in October 2020 (after losing a long battle against a host of painful illnesses). 
 
-[^1]: You may try this to a ~~barrister~~ barista at a Starbucks shop: "Could I have a tall cup of latte? No milk please!" See what reaction you will get. Studying IP without knowing the "intellectual" background of its many subject matters is like having a cup of latte without milk. 
+[^2]: You may try this to a ~~barrister~~ barista at a Starbucks shop: "Could I have a tall cup of latte? No milk please!" See what reaction you will get. Studying IP without knowing the "intellectual" background of its many subject matters is like having a cup of latte without milk. 
 
-[^2]: I am inspired by Dan Hunter and Claudy Kamp, *A History of Intellectual Property in 50 Objects* (Cambridge University Press 2019)
+[^3]: I am inspired by Dan Hunter and Claudy Kamp, *A History of Intellectual Property in 50 Objects* (Cambridge University Press 2019)
+
