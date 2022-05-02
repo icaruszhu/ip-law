@@ -12,7 +12,7 @@ We will discuss the strengths and weaknesses of these different models in a hist
 
 * Seminar Questions
 
-** [Q1] Aaaron Swartz's tragedy 
+** [Q1] Aaaron Swartz’s tragedy 
 In January 2013, Aaron Swartz (1986-2013), a young internet activist (or “hacktivist”), committed suicide when facing prosecution for hacking into JSTOR's proprietary digital database of academic journal, books, and primary sources. The prosecutor Carmen Ortiz commented:
 
 #+BEGIN_QUOTE
@@ -24,7 +24,6 @@ Do you agree with Ortiz? Is there a difference between the theft of physical pro
 at [[http://docs.jstor.org/summary.html]] )
 
 ** [Q2] IP Justifications: Labour vs Personality
-
 Discuss the difference between the Lockean labour-based justification of IP and the Hegelian personality-based justification of IP. (See J Hughes' article in the "Readings" section)
 
 *** i) What is Locke's theory of property in general? What are the provisos to his theory of property? What are the different interpretations of the Lockean labour (the “avoidance” view of labour vs. “value-added view” of labour)? Can the Lockean theory be readily applied to “intellectual” labour and therefore “intellectual” property?
@@ -43,18 +42,18 @@ Can human genes be patented? Should a pharmaceutical company own the so-called g
 Does the US Supreme Court close the door to all gene patents altogether after the /Myriad/ case?
 
 ** [Q5] A Kantian Question: Writing as Speech? 
-What is the significance of Kant's /On the Injustice of Reprinting Books/ (1785) on intellectual property? What is the relevance of the Kantian theory in today's society where communication through the internet is prevalent?
+What is the significance of Kant’s /On the Injustice of Reprinting Books/ (1785) on intellectual property? What is the relevance of the Kantian theory in today's society where communication through the internet is prevalent?
+
 ** [Q6] International IP and Territoriality 
 Is there an international IP legal system where IP rights are enforceable under a single unified jurisdiction?
 
 * Readings
 ** Aaron Swartz's tragedy
-
 - Elizabeth Day, ‘Aaron Swartz: hacker,
 genius... martyr?'2 June 2013, /The Guardian/, at
 [[http://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview][http://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview]]
 
-- Reader, Ruth. ‘3 Years After Aaron Swartz’s Death, Here’s What’s Happened to Aaron’s Law’. Mic, 12 January 2016.https://www.mic.com/articles/132299/3-years-after-aaron-swartz-s-death-here-s-what-s-happened-to-aaron-s-law.
+- Reader, Ruth. ‘3 Years After Aaron Swartz’s Death, Here’s What’s Happened to Aaron’s Law’. Mic, 12 January 2016 https://www.mic.com/articles/132299/3-years-after-aaron-swartz-s-death-here-s-what-s-happened-to-aaron-s-law.
 
 - Aurora Plomer, The Human Rights Paradox: Intellectual Property Rights and Rights of Access to Science (2013) 35(1) Human Rights Quarterly 143
 (Try to relate this article to the lawsuit against Sci-Hub)
@@ -78,12 +77,11 @@ genius... martyr?'2 June 2013, /The Guardian/, at
 
 - Jeanne L. Schroeder, “Unnatural Rights: Hegel and Intellectual Property,” (2006) 60 University of Miami Law Review 453
 
-- *F Kawohl, (2008) ‘Commentary on Kant's essay /On the Injustice of Reprinting Books/ (1785)', in /Primary Sources on Copyright (1450-1900)/, eds L. Bently & M. Kretschmer at
-[[http://www.copyrighthistory.org/cam/tools/request/showRecord?id=commentary_d_1785][http://www.copyrighthistory.org/cam/tools/request/showRecord?id=commentary_d_1785]]
+- *F Kawohl, (2008) ‘Commentary on Kant's essay /On the Injustice of Reprinting Books/ (1785)', in /Primary Sources on Copyright (1450-1900)/, eds L. Bently & M. Kretschmer https://www.copyrighthistory.org/cam/commentary/d_1785/d_1785_com_300200813718.html
 
-- A Barron, "Kant, Copyright and Communicative Freedom” (2012) 31 Law & Philosophy 1"
+- A Barron, “Kant, Copyright and Communicative Freedom” (2012) 31 Law & Philosophy 1
 
-- *E C Hettinger, ‘Justifying Intellectual Property' [1989] 18 Philosophy and Public Affairs 31 (pp. 47-51 on the incentive theory)
+- *E C Hettinger, “Justifying Intellectual Property” [1989] 18 Philosophy and Public Affairs 31 (esp. pp. 47-51 on the incentive theory)
 
 ** Debating the Utilitarian approach
 - Harold Demsetz, “Creativity and the Economics of the Copyright Controversy”, (2009) 6 (2) Review of Economic Research on Copyright Issues, pp.5-12
