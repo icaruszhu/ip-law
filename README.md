@@ -30,7 +30,7 @@ This IP course adopts an "object"-oriented approach. I have gradually built a cu
 # Intellectual "Un-property"
 This course also challenges students to view so-called "intellectual property" in its negative space. The proprietary scope of IP is not unlimited, but it is, and should be, carefully defined and confined. A quick Google N-gram query  allows us to do a rudimentary Foucauldian genealogical search of the term "intellectual property", whose rise is found to be a fairly recent phenomenon. By quickly eyeballing the graph, it is not difficult to see that the term is not widely used before 1970s.
 
-![IP trend](https://raw.githubusercontent.com/icaruszhu/commit/master/image/ngram-IP-trend.png)
+![IP trend](https://raw.githubusercontent.com/icaruszhu/ip-law/master/image/ngram-IP-trend.png)
 
 The course tries to make students see the "negative space" of IP or what I call "Intellectual Un-property" (IuP), which should not be seen as the left-over part of the positive restriction imposed by IP as exclusive rights. Instead, IuP is an integral part of what IP is and its space needs to be carefully designed.
 
@@ -50,7 +50,7 @@ The above code will send a decently formatted PDF file to your ```~/Desktop```.
 # Download and Fork the Course 
 ## Download
 - You can download the repo using the Github GUI.
-- Alternatively, you can use the command line. Type this command in your terminal:  ```git clone https://github.com/icaruszhu/commit.git```
+- Alternatively, you can use the command line. Type this command in your terminal:  ```git clone https://github.com/icaruszhu/ip-law.git```
 
 ## Fork 
 
