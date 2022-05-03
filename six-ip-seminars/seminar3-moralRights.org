@@ -2,10 +2,8 @@
 #+AUTHOR: Chen Zhu (Birmingham Law School) 
 #+PANDOC_OPTIONS: number-sections:nil 
 #+PANDOC_OPTIONS: standalone:t
-#+roam_alias:
-#+roam_tags: "seminar sheet" "git repo"
-#+keywords: "seminar sheet" "git repo"
-
+#+roam_tags: github-repo ip-law OER 
+#+keywords: github-repo ip-law OER
 
 
 * Introduction

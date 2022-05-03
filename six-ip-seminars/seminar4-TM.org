@@ -2,6 +2,8 @@
 #+AUTHOR: Chen Zhu (Birmingham Law School) 
 #+PANDOC_OPTIONS: number-sections:nil 
 #+PANDOC_OPTIONS: standalone:t
+#+roam_tags: github-repo ip-law OER 
+#+keywords: github-repo ip-law OER
 
 * Introduction
 What do trade mark law protect? Should it protect brands or branded images? This seminar explores many difficult issues concerning the registratbility of marks, legal protection of brands and, most fundamentally, the changing rationale behind TM law in its social context.

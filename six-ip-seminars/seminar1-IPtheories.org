@@ -2,6 +2,8 @@
 #+AUTHOR: Chen Zhu (Birmingham Law School)
 #+PANDOC_OPTIONS: number-sections:nil 
 #+PANDOC_OPTIONS: standalone:t
+#+roam_tags: github-repo ip-law OER 
+#+keywords: github-repo ip-law OER
 
 * Introduction
 In this seminar, we will examine three competing (sometimes complementary) theoretical models of justifying IP: 
